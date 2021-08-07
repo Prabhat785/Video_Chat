@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08e6f19d.chunk.css",
+    "main.js": "/static/js/main.f4252422.chunk.js",
+    "main.js.map": "/static/js/main.f4252422.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.142a9cc1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.142a9cc1.js.map",
+    "static/js/2.db336341.chunk.js": "/static/js/2.db336341.chunk.js",
+    "static/js/2.db336341.chunk.js.map": "/static/js/2.db336341.chunk.js.map",
+    "static/js/3.e5f808bc.chunk.js": "/static/js/3.e5f808bc.chunk.js",
+    "static/js/3.e5f808bc.chunk.js.map": "/static/js/3.e5f808bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.08e6f19d.chunk.css.map": "/static/css/main.08e6f19d.chunk.css.map",
+    "static/js/2.db336341.chunk.js.LICENSE.txt": "/static/js/2.db336341.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/static/media/undraw_remotely_2j6y.c32d0b18.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.142a9cc1.js",
+    "static/js/2.db336341.chunk.js",
+    "static/css/main.08e6f19d.chunk.css",
+    "static/js/main.f4252422.chunk.js"
+  ]
+}
